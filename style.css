@@ -1,0 +1,11 @@
+table{
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 0,5em 1em;
+}
+
+tr:nth-of-type(even){
+    backround-color:#ddd;
+}
